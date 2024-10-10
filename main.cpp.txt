@@ -5,6 +5,6 @@ using Namespace std;
 int main(){
 	string name;
 	cin >> name;
-	cout << "Hello, " << name << "!" << endl;
+	cout << "Hello, dear " << name << "!" << endl;
 	return 0;
 }
